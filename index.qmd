@@ -1,13 +1,31 @@
 ---
-title: "personal-website"
+title: "Aidan Ohlson"
+about: 
+  template: broadside
+  image: IMG_3015.JPG
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/aidanohlson
+    - text: Email
+      url: "mailto:aidanohlson@aol.com"
 ---
 
-This is a Quarto website.
+Aidan Ohlson is a Statistics and Data Science student. He enjoys fishing and 
+hiking.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Download [My CV](/resume_140.pdf)
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+BS in Statistics and Data Science | Sept 2021 - June 2025
+
+## Experience
+
+UCLA Financial Aid and Scholarships | Peer Advisor | Aug 2023 - Feb 2025
+
+UCLA Athletics | Performance Nutrition Intern | Jan 2022 - Aug 2024
+
 
 
