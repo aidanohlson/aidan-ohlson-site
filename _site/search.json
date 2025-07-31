@@ -1,30 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aidan Ohlson",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Experience",
     "section": "",
-    "text": "Aidan Ohlson is a Statistics and Data Science student. He enjoys fishing and hiking.\nDownload My CV"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Aidan Ohlson",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA BS in Statistics and Data Science | Sept 2021 - June 2025"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Aidan Ohlson",
-    "section": "Experience",
-    "text": "Experience\nUCLA Financial Aid and Scholarships | Peer Advisor | Aug 2023 - Feb 2025\nUCLA Athletics | Performance Nutrition Intern | Jan 2022 - Aug 2024"
+    "text": "View My Resume"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "This is where my future projects will go!\n\nProject 1\nDescription:\nSummary:"
+    "text": "Here are a few projects I’ve completed that explore different areas of data science, statistical analysis, and machine learning techniques. I’m continuing to build and expand this portfolio as I go!\n\nDynamics of Content, Sentiment, and Theme in the Presidency\nThis project used text mining and machine learning to analyze U.S. presidential speeches. After preprocessing the text, I applied sentiment analysis (NRC lexicon), topic modeling (LDA), and word frequency analysis to explore potential patterns across eras and parties. I also built predictive models (SVM and Random Forest) to classify speeches by era and party.\nPresentation\nFull Report\n\n\nTrump’s Twitter: Shifts Through Time and Context\nThis project analyzes over a decade of tweets from Donald Trump. After mining and preprocessing the tweet text, I applied sentiment analysis and Latent Dirichlet Allocation (LDA) to identify thematic topics across tweets and explored how these topics and sentiments correlated with user engagement. Finally, I built a multiple linear regression model to predict likes based on sentiment scores and topic categories, revealing how tone and content affected public response.\nPresentation\nFull Report\n\n\nPredicting NBA Game Outcomes Using Supervised Learning Methods\nThis project builds predictive models to classify NBA game outcomes using engineered features from team statistics, home/away context, and rest days. After cleaning and transforming the dataset, both Random Forest and Support Vector Machine models were trained using 10-fold cross-validation. Feature importance was analyzed, and time-decay weighting was tuned to improve performance.\nCode and Modeling Results\n\n\nThis Website (GitHub Repo)\nThis website was built in RStudio using Quarto. After creating and rendering the site locally, the project was tracked with Git and pushed to a GitHub repository using Bash commands. The GitHub repository was then connected to Netlify, which automatically builds and deploys the website whenever changes are pushed to GitHub. This is a fun project to keep updating and improving over time.\nWebsite Repository"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aidan Ohlson",
+    "section": "",
+    "text": "I am a statistician and data scientist with a strong foundation in analytical methods, statistical modeling, and machine learning. My work focuses on the intersection of data science, predictive modeling, and real-world applications across tech, strategy, and decision-making. I am especially interested in how these approaches can inform complex systems and create practical impact.\nI recently completed my undergraduate studies in Statistics and Data Science at the University of California, Los Angeles (UCLA), where I developed expertise in statistical inference, computational models, and data engineering. During my time at UCLA, I worked on a range of applied projects, and gained hands-on experience with tools and techniques at the heart of modern data science.\nI am seeking opportunities to apply my skills in diverse and impactful settings — from machine learning research and data product development, to roles in tech or policy forecasting. I remain broadly open to domains where rigor, curiosity, and data-driven thinking can make a difference."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Aidan Ohlson",
+    "section": "",
+    "text": "I am a statistician and data scientist with a strong foundation in analytical methods, statistical modeling, and machine learning. My work focuses on the intersection of data science, predictive modeling, and real-world applications across tech, strategy, and decision-making. I am especially interested in how these approaches can inform complex systems and create practical impact.\nI recently completed my undergraduate studies in Statistics and Data Science at the University of California, Los Angeles (UCLA), where I developed expertise in statistical inference, computational models, and data engineering. During my time at UCLA, I worked on a range of applied projects, and gained hands-on experience with tools and techniques at the heart of modern data science.\nI am seeking opportunities to apply my skills in diverse and impactful settings — from machine learning research and data product development, to roles in tech or policy forecasting. I remain broadly open to domains where rigor, curiosity, and data-driven thinking can make a difference."
+  },
+  {
+    "objectID": "index.html#personal-life",
+    "href": "index.html#personal-life",
+    "title": "Aidan Ohlson",
+    "section": "Personal Life",
+    "text": "Personal Life\nI was born and raised in Anchorage, Alaska, where I spent much of my time outdoors. I grew up downhill skiing in the winters and I spent my weekends fly fishing for rainbow trout, backpacking in the Chugach Mountains, and camping across Southcentral Alaska.\nI later moved to Los Angeles to attend UCLA, where I picked up golfing (or tried to) and beach volleyball. Living with my good friends in the city taught me that good company will always hold importance over anything else.\nThese days, I still spend most of my free time outside — golfing, hiking, and chasing trout with a fly rod whenever I get the chance."
   }
 ]
