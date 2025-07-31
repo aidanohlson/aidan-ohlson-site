@@ -10,7 +10,9 @@ website:
       - href: projects.qmd
         text: Projects
       - href: education.qmd
-        text: Education
+        text: Experience
+      - href: contact.qmd
+        text: Contact Me
 
 format:
   html:
