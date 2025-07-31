@@ -2,30 +2,50 @@
 title: "Aidan Ohlson"
 about: 
   template: broadside
-  image: IMG_3015.JPG
+  image: IMG_2988.JPG
   links: 
+    - text: Email
+      url: "mailto:aidanohlson@aol.com"
+    - text: Resume/CV
+      href: Resume - Word.pdf
     - icon: github
       text: Github
       href: https://github.com/aidanohlson
-    - text: Email
-      url: "mailto:aidanohlson@aol.com"
 ---
 
-Aidan Ohlson is a Statistics and Data Science student. He enjoys fishing and 
-hiking.
+## About Me
 
-Download [My CV](/resume_140.pdf)
+I am a statistician and data scientist with a strong foundation in analytical 
+methods, statistical modeling, and machine learning. My work focuses on the 
+intersection of data science, predictive modeling, and real-world applications 
+across tech, strategy, and decision-making. I am especially interested in 
+how these approaches can inform complex systems and create practical impact.
 
-## Education
+I recently completed my undergraduate studies in Statistics and Data Science at
+the University of California, Los Angeles (UCLA), where I developed expertise 
+in statistical inference, computational models, and data engineering. During 
+my time at UCLA, I worked on a range of applied projects, and gained hands-on 
+experience with tools and techniques at the heart of modern data science.
 
-University of California, Los Angeles | Los Angeles, CA
-BS in Statistics and Data Science | Sept 2021 - June 2025
+I am seeking opportunities to apply my skills in diverse and impactful settings
+— from machine learning research and data product development, to roles in tech 
+or policy forecasting. I remain broadly open to domains where rigor, curiosity, 
+and data-driven thinking can make a difference.
 
-## Experience
 
-UCLA Financial Aid and Scholarships | Peer Advisor | Aug 2023 - Feb 2025
+## Personal Life
 
-UCLA Athletics | Performance Nutrition Intern | Jan 2022 - Aug 2024
+I was born and raised in Anchorage, Alaska, where I spent much of my time 
+outdoors. I grew up downhill skiing in the winters and I spent my weekends fly 
+fishing for rainbow trout, backpacking in the Chugach Mountains, and camping 
+across Southcentral Alaska.
+
+I later moved to Los Angeles to attend UCLA, where I picked up golfing (or tried to) 
+and beach volleyball. Living with my good friends in the city taught me that 
+good company will always hold importance over anything else.
+
+These days, I still spend most of my free time outside — golfing, hiking, and 
+chasing trout with a fly rod whenever I get the chance.
 
 
 
