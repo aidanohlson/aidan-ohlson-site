@@ -13,7 +13,7 @@ about:
       href: https://github.com/aidanohlson
 ---
 
-## About Me
+#### About Me
 
 I am a statistician and data scientist with a strong foundation in analytical 
 methods, statistical modeling, and machine learning. My work focuses on the 
@@ -33,7 +33,7 @@ or policy forecasting. I remain broadly open to domains where rigor, curiosity,
 and data-driven thinking can make a difference.
 
 
-## Personal Life
+#### Personal Life
 
 I was born and raised in Anchorage, Alaska, where I spent much of my time 
 outdoors. I grew up downhill skiing in the winters and I spent my weekends fly 

@@ -7,7 +7,9 @@ science, statistical analysis, and machine learning techniques. I'm continuing
 to build and expand this portfolio as I go!
 
 
-### Dynamics of Content, Sentiment, and Theme in the Presidency
+
+
+#### Dynamics of Content, Sentiment, and Theme in the Presidency
 
 This project used text mining and machine learning to analyze U.S. presidential 
 speeches. After preprocessing the text, I applied sentiment analysis 
@@ -21,7 +23,9 @@ potential patterns across eras and parties. I also built predictive models
 
 
 
-### Trump’s Twitter: Shifts Through Time and Context
+
+
+#### Trump’s Twitter: Shifts Through Time and Context
 
 This project analyzes over a decade of tweets from Donald Trump. After mining 
 and preprocessing the tweet text, I applied sentiment analysis and Latent 
@@ -37,7 +41,9 @@ public response.
 
 
 
-### Predicting NBA Game Outcomes Using Supervised Learning Methods
+
+
+#### Predicting NBA Game Outcomes Using Supervised Learning Methods
 
 This project builds predictive models to classify NBA game outcomes using 
 engineered features from team statistics, home/away context, and rest days.
@@ -50,7 +56,9 @@ performance.
 
 
 
-### This Website (GitHub Repo)
+
+
+#### This Website (GitHub Repo)
 
 This website was built in RStudio using Quarto. After creating and rendering the 
 site locally, the project was tracked with Git and pushed to a GitHub repository 
