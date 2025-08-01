@@ -2,4 +2,4 @@
 title: "Experience"
 ---
 
-[View My Resume](files/Resume - Word.pdf){target="_blank"}
+[View My Resume](resume_word.pdf){target="_blank"}

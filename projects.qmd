@@ -17,9 +17,9 @@ speeches. After preprocessing the text, I applied sentiment analysis
 potential patterns across eras and parties. I also built predictive models 
 (SVM and Random Forest) to classify speeches by era and party.
 
-[Presentation](files/133 Final Project Slides.pdf)
+[Presentation](133_project_slides.pdf){target="_blank"}
 
-[Full Report](files/405815712_stats133_finalProject.pdf)
+[Full Report](405815712_stats133_finalProject.pdf){target="_blank"}
 
 
 
@@ -35,9 +35,9 @@ Finally, I built a multiple linear regression model to predict likes based on
 sentiment scores and topic categories, revealing how tone and content affected
 public response.
 
-[Presentation](files/Trump_Twitter_slides.pdf)
+[Presentation](Trump_Twitter_slides.pdf){target="_blank"}
 
-[Full Report](files/Trump_Twitter_report.pdf)
+[Full Report](Trump_Twitter_report.pdf){target="_blank"}
 
 
 
@@ -52,7 +52,7 @@ Vector Machine models were trained using 10-fold cross-validation. Feature
 importance was analyzed, and time-decay weighting was tuned to improve 
 performance.
 
-[Code and Modeling Results](files/modified_stats101c_final_project.pdf)
+[Code and Modeling Results](modified_stats101c_final_project.pdf){target="_blank"}
 
 
 

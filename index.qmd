@@ -7,7 +7,7 @@ about:
     - text: Email
       url: "mailto:aidanohlson@aol.com"
     - text: Resume/CV
-      href: Resume - Word.pdf
+      href: resume_word.pdf
     - icon: github
       text: Github
       href: https://github.com/aidanohlson
